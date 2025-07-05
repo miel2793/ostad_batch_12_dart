@@ -13,7 +13,9 @@ print(details);
   print(details.reversed);
   print(details.isNotEmpty);
 
-
+details.addAll(['sojib',7,4,6,3,]);
+print(details);
+print(details.removeAt(5));
 
 
 }
