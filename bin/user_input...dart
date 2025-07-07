@@ -4,9 +4,9 @@ import 'dart:io';
 main()
 {
 
-  String? name;
+  int? name ;
   print("Enter your Name = ");
-  name=stdin.readLineSync();
+  name=int.tryParse(stdin.readLineSync()!);
   print('My Name  is $name');
 
 
