@@ -1,8 +1,8 @@
 main()
 {
-  int a=50;
-  for(int i=0;i<=a;i+=2)
+  int a=10;
+  for(int i=1;i<=a;i++)
     {
-      print("$i Miel");
+      print("10*$i = ${10*i}");
     }
 }
