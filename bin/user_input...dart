@@ -5,9 +5,10 @@ main()
 {
 
   int? name ;
-  print("Enter your Name = ");
+  print("Enter your number  = ");
   name=int.tryParse(stdin.readLineSync()!);
-  print('My Name  is $name');
+  print('My number   is $name');
+
 
 
 }
