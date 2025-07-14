@@ -10,4 +10,8 @@ main()
    {
       print("Able for Vote ");
    }
+else
+  {
+    print("Still kid ");
+  }
  }
