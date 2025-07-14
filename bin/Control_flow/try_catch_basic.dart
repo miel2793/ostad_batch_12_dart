@@ -1,0 +1,6 @@
+//without try catch
+
+ main()
+ {
+
+ }
