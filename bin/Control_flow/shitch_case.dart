@@ -5,7 +5,10 @@ main()
   String month = stdin.readLineSync()!;
    switch(month)
    {
-     case 1 :
+     case 'January' :
+       print("this is $month Month ");
+     case 'July':
+       print(" Victory ");
    }
 
 }
