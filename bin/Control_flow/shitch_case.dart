@@ -12,4 +12,3 @@ main()
    }
 
 }
-// if   and else ... switch case
