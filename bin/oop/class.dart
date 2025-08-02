@@ -5,11 +5,11 @@ main()
   /*stu1.name='Miel';
   stu1.intake=52;
   stu1.id=368;*/
-
  // print(stu1.id);
   human miel=human();  // object
   print(miel.eye);
   miel.run(); /// method call
+  human.miel();  // calling Static method
 }
 class student
 {

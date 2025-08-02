@@ -11,5 +11,9 @@ class human
      {
        print("Miel  Is Running ");
      }
+      static miel()
+      {
+           print("Miel Mahmud SIfat");
+      }
 
   }
