@@ -8,7 +8,8 @@
   class intake extends  bubt
   {
 
-
+int  student = 600;
+int teacher = 50;
   }
   main()
   {
