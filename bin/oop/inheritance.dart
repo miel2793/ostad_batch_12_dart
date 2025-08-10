@@ -9,7 +9,7 @@
   {
 
 int  student = 600;
-int teacher = 50;
+//int teacher ;
   }
   main()
   {
