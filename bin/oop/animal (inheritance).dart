@@ -14,6 +14,10 @@ class Animal
     {
  print(' Dog can eat  Briany ');
     }
+    sound()
+    {
+      super.sound();
+    }
 
  }
   class cat
