@@ -9,16 +9,18 @@
    {
      print("From Studen");
    }
+
  }
   class intake extends  bubt
   {
     income()    // method overright
     {
       print(" Skill");
+      print("Student:$student");
     }
 
 
-int  student = 600;
+//int  student = 600;
 //int teacher ;
   }
   main()
