@@ -1,7 +1,7 @@
  class bubt {
 
 
-  bubt(this.name,this.id)
+  bubt(this.name,this.id) //  class  theke   variable access korar jonno this  use hoy
   {
 
      print("$name and $id");
@@ -21,23 +21,22 @@
  }
   class intake extends  bubt
   {
-    intake(super.name,super.id); //using super key for   access parent  class information
+    int  fu;
+    intake(super.name,super.id,this.fu); //using super key for   access parent  class information
     income()    // method overright
     {
       print(" Skill");
       print("Student:$student");
     }
 
-
 //int  student = 600;
 //int teacher ;
   }
   main()
   {
-    intake vf= intake('Du',21);
+    intake vf= intake('Du',21,45);
     print(vf.teacher);
     vf.income();
-    bubt('Miel Mahmud Sifat', 368);
+   // bubt('Miel Mahmud Sifat', 368);
 
-    
   }
