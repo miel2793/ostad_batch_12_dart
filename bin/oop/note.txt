@@ -1,0 +1,6 @@
+/*
+oop Paradigm
+1. Correctness
+2.Robustness
+3.Extendibility
+4.Reusability
