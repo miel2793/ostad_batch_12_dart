@@ -7,7 +7,7 @@ class Student
 }
 class Teacher
 {
-  display_role()
+   static display_role()
   {
     String Name;
     int age;
@@ -19,3 +19,7 @@ class Person
 {
 
 }
+ main()
+ {
+
+ }
